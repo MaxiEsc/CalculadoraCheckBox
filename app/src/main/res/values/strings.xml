@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CalculadoraCheckBox</string>
+    <string name="titulo">Calculadora</string>
+    <string name="suma">Sumar</string>
+    <string name="resta">Restar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="division">Division</string>
+    <string name="numeroA">Ingrese un Primer Número</string>
+    <string name="numeroB">Ingrese un Segundo Número</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultadoSuma">Resultado de Suma </string>
+    <string name="resultadoResta">Resultado de Resta</string>
+    <string name="resultadoMulti">Resultado de Producto</string>
+    <string name="resultadoDiv">Resultado de Division</string>
+</resources>
